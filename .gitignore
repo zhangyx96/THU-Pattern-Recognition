@@ -1,0 +1,9 @@
+*.pdf
+*.npy
+*.docx
+*.zip
+/project1/data
+/project3/data3
+**/Logs
+.idea
+__pycache__
