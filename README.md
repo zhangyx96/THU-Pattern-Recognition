@@ -5,7 +5,7 @@
 + 语言：Matlab
 + 算法：贝叶斯判决+PCA
 
-## **Project 2 图
+## **Project 2 字典学习**
 + 语言： Matlab
 + 算法： (a)SVD稀疏分解 (b)字典学习
   
