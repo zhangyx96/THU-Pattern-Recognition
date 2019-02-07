@@ -1,11 +1,11 @@
 # THU-Pattern-Recognition
-## The homework of professor Lu Zongqing's Pattern Recognition course
----
+#### The homework of professor Lu Zongqing's Pattern Recognition course
+
 ## **Project 1 cifar10 数据图像分类**
 + 语言：Matlab
 + 算法：贝叶斯判决+PCA
 
-## **Project 2 图像重建**
+## **Project 2 图
 + 语言： Matlab
 + 算法： (a)SVD稀疏分解 (b)字典学习
   
